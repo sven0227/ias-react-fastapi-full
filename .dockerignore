@@ -1,0 +1,14 @@
+# git
+.git
+.gitignore
+.github/*
+README.md
+
+# docker
+docker
+.dockerignore
+docker-compose.yml
+
+.DS_Store
+./env_files
+./mainApi/app/static
